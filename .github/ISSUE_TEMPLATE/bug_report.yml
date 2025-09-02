@@ -31,7 +31,6 @@ body:
   - type: input
     attributes:
       label: What was the last working version of ScoutBattle?
-      placeholder: core-
       description: >
         If known, otherwise leave blank.
   - type: markdown
