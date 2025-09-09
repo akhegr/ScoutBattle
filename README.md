@@ -7,16 +7,16 @@ Pointene vises derefter i realtid på et Windows-baseret dashboard, hvor det fø
 ---
 
 ## ✨ Funktioner
-- 📱 **Webapp til ledere** – tilføj point direkte fra telefonen  
-- 📊 **Dashboard i realtid** – visning af samlet score på storskærm  
-- 🎵 **Holdmelodi** – det førende hold får afspillet deres sang automatisk  
+- 📱 **Webapp til ledere** – giv holdene point direkte fra telefonen  
+- 📊 **Dashboard i realtid** – visning af samlet score på storskærm med live opdateringer
+- 🎵 **Holdmelodi** – det førende hold får afspillet deres sang automatisk
 - ⚡ **Motiverende gamification** – skaber energi og konkurrenceånd
 
 ---
 
 ## 🎯 Formål
 ScoutBattle er udviklet for at gøre pointgivning og konkurrence mere interaktivt og engagerende for børn og unge.  
-Projektet fungerer som et **udstillingsvindue** for idé, arkitektur og samarbejde – ikke som et open source-projekt med fuld kildekode.  
+Projektet fungerer som et **udstillingsvindue** for idé, arkitektur og samarbejde – ikke som et open source-projekt med fuld kildekode, da det pt. ligger i private projekter.
 
 ---
 
