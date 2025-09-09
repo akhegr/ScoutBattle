@@ -9,7 +9,7 @@ Pointene vises derefter i realtid på et Windows-baseret dashboard, hvor det fø
 </a>
 
 <a href="https://scoutbattleapp.hegr.dk" target="_blank">
-  <img src="[https://get.microsoft.com/images/en-us%20dark.svg](https://github.com/akhegr/ScoutBattle/blob/main/images/Open%20portal%20icon.png?raw=true)" alt="Åben ScoutBattle">
+  <img src="https://github.com/akhegr/ScoutBattle/blob/main/images/Open%20portal%20icon.png?raw=true" alt="Åben ScoutBattle">
 </a>
 
 ---
