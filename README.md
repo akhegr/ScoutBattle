@@ -5,11 +5,11 @@ Systemet gør det muligt for spejderledere at tildele point til hold via en mobi
 Pointene vises derefter i realtid på et Windows-baseret dashboard, hvor det førende hold får afspillet sin holdmelodi.  
 
 <a href="https://apps.microsoft.com/detail/9n9d20xdwrj0?hl=da-DK&gl=DK" target="_blank">
-  ![Hent den fra Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)]
+  ![Hent den fra Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)
 </a>
 
 <a href="https://scoutbattleapp.hegr.dk" target="_blank">
-  ![Åben ScoutBattle]([https://get.microsoft.com/images/en-us%20dark.svg](https://github.com/akhegr/ScoutBattle/blob/main/images/Open%20portal%20icon.png?raw=true))]
+  ![Åben ScoutBattle](https://github.com/akhegr/ScoutBattle/blob/main/images/Open%20portal%20icon.png?raw=true)
 </a>
 
 ---
