@@ -4,7 +4,7 @@
 Systemet gør det muligt for spejderledere at tildele point til hold via en mobilvenlig webapp.  
 Pointene vises derefter i realtid på et Windows-baseret dashboard, hvor det førende hold får afspillet sin holdmelodi.  
 
-[![Hent den fra Microsoft](https://get.microsoft.com/images/da-dk%20dark.svg)](https://apps.microsoft.com/detail/9n9d20xdwrj0?hl=da-DK&gl=DK)
+[![Hent den fra Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9n9d20xdwrj0?hl=da-DK&gl=DK)
 
 ---
 
