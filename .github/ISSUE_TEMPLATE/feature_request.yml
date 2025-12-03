@@ -4,7 +4,6 @@ labels: ["enhancement"]
 assignees:
   - akhegr
 title: "[FR]: "
-labels: ["feature request"]
 body:
   - type: markdown
     attributes:
