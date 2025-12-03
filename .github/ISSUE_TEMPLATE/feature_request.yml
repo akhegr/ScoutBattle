@@ -1,5 +1,8 @@
 name: Feature request
 description: Make a request for a new feature in ScoutBattle
+labels: ["enhancement"]
+assignees:
+  - akhegr
 title: "[FR]: "
 labels: ["feature request"]
 body:
