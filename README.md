@@ -14,6 +14,18 @@ Pointene vises derefter i realtid på et Windows-baseret dashboard, hvor det fø
 
 ---
 
+## 🎥 Demo
+
+### 💻 Windows
+
+https://github.com/user-attachments/assets/0aebcb09-9b2c-4e8f-9e08-a5572e10f403
+
+### 📱 Android
+
+https://github.com/user-attachments/assets/76e1e554-4e90-43b6-8b62-f8e267e1506e
+
+---
+
 ## ✨ Funktioner
 - 📱 **Webapp til ledere** – giv holdene point direkte fra telefonen  
 - 📊 **Dashboard i realtid** – visning af samlet score på storskærm med live opdateringer
