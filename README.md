@@ -7,8 +7,8 @@ Pointene vises i realtid på et Windows-dashboard, hvor det førende hold får a
 ---
 
 ## 🎯 Formål
-ScoutBattle er udviklet for at gøre pointgivning og konkurrence mere interaktivt og engagerende for børn og unge.  
-Projektet fungerer som et **udstillingsvindue** for idé, arkitektur og samarbejde – ikke som et open source-projekt med fuld kildekode, da det pt. ligger i private projekter.
+ScoutBattle er udviklet for at gøre pointgivning og konkurrence mere interaktivt og engagerende for børn og unge.
+Da projektet fortsat er under udvikling, ligger kildekoden i private projekter.
 
 ---
 
@@ -32,6 +32,7 @@ Projektet fungerer som et **udstillingsvindue** for idé, arkitektur og samarbej
 ### 🎥 Demo
 https://github.com/user-attachments/assets/0aebcb09-9b2c-4e8f-9e08-a5572e10f403
 
+---
 
 ## 📱 ScoutBattle App
 
