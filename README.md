@@ -20,7 +20,7 @@ Da projektet fortsat er under udvikling, ligger kildekoden i private projekter.
 
 ---
 
-## 💻 ScoutBattle App
+## 💻 ScoutBattle Dashboard
 
 ### ℹ️ Om
 **ScoutBattle dashboard** er udviklet som en Windows-applikation i .NET MAUI app, og udgivet på Microsoft Store.
